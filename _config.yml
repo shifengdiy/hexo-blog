@@ -4,11 +4,11 @@
 
 # Site
 title: Hexo
-subtitle: ''
-description: ''
+subtitle: '副标题'
+description: '描述'
 keywords:
-author: John Doe
-language: en
+author: shifengdiy
+language: zh-CN
 timezone: ''
 
 # URL
@@ -98,7 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: hexo-theme-ringo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
